@@ -1,7 +1,0 @@
-# todos os arquivos php serão ignorados
-*.php
-
-# IGNORANDO O ARQUIVO 1.jpeg
-img/1.jpeg
-
-style.css
